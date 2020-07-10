@@ -1,0 +1,5 @@
+#
+#Wed Jul 08 19:10:06 JST 2020
+BROWSER_NAME=chrome
+BROWSER_CMD="C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome_proxy.exe"  --profile-directory=Default --app-id=mhjfjjkadhogdhjmnhijeaigeecldjfi
+TIMER_SECONDS=300
